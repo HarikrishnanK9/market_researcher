@@ -19,7 +19,7 @@ Next, navigate to your project directory and install the dependencies:
 crewai install
 ```
 ### Customizing
-- In this example, I have utilised Ollama, but you can opt for Open AI, Gemini,etc
+- In this example, I have utilised **Ollama** with **MODEL=ollama/llama3.1**, but you can opt for Open AI, Gemini,etc
 **Add your `OPENAI_API_KEY` into the `.env` file**
 
 - Modify `src/market_researcher/config/agents.yaml` to define your agents
