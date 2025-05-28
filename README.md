@@ -43,12 +43,11 @@ This example, unmodified, will run the create a `report.md` file with the output
 
 The market_researcher Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
 
-## Support
+## Reference
 
-For support, questions, or feedback regarding the MarketResearcher Crew or crewAI.
+For creating the MarketResearcher i have followed official documentation
 - Visit  [documentation](https://docs.crewai.com)
 - Reach out through [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with docs](https://chatg.pt/DWjSBZn)
+
 
 Let's create wonders together with the power and simplicity of crewAI.
