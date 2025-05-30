@@ -1,5 +1,4 @@
 # MarketResearcher Crew
-![System Architecture](diagram.png)
 
 Welcome to the MarketResearcher Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. The goal is to enable your agents to collaborate effectively on complex tasks, maximising their collective intelligence and capabilities.
 ## Installation
